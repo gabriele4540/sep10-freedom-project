@@ -3,7 +3,7 @@
 
 Choosing a topic
 
-Content
+##Content
 
 I have decided that the topic I will work on is the medical field. The reason For this, is because I want to be in vetinary school when I grow up and help animals recover. Ive always been working hard in my default classes like math chemistry and history so that one day I can finally work on my passion of being a vetinary doctor. Ive always loved animals for as long as I can remember ive searched up what skills you need to master to become a doctor like the one I want to be and worked really hard to master them myself. The pro's of being a vet are very benevolent and lively as I can have the honor and pleasure of making saving a animals life and make peoples years in their life. The cons are the cost of the bills that it takes for these surgeries. You can also say the same for doctors too but vets also have these problems. I want to make a vet that is a non profit and helps animals and owners that dont have the insurance or bills to pay for their sweet pets lives.
 
