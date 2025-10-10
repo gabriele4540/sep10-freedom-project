@@ -15,7 +15,7 @@ I have decided that the topic I will work on is the medical field. The reason Fo
 There is alot of skills that I had learned during researching economics and one of those skills are investments like crypto and smp 500 that is a tax free money collector that will make you a millionaire in 25 years. In addition, you shouldnt put all your eggs in one basket that way there are multiple oppurtunities for you to become succesful. For example, If I were to put down all the money into stocks and not safe options like smp 500 then theres a high chance I will lose some money if those stocks start to fail. On the other hand, I know I would be good at this job but there is some downsides to it for society. Ill get more knowledge about money then other people and thats just not fair because their some people that just want to get their life started but dont have any economic smarts. But the same can be said about pro's as well as I can teach them myself and also build schooles about economics.
 
 
-Context
+##### Context
 
 
 The purpose of This project Im doing is to share out my opinions on What im passionate about and what it does to help the world but also what it does that doesnt or that is a detriment to my job. The reason for this Blog is that I can share my opinions with you so that we can figure out a way to make these cons go away.\
