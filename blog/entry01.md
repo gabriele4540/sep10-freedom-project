@@ -1,17 +1,17 @@
 # Entry 1 Deciding on my topic (The Medical Field)
 10/7/25
 
-Choosing a topic
+# Choosing a topic
 
-# Content
+I have decided that I am going to become a vetinary doctor as my topic because I am very passionate about this career. I want to do this, to save animals lives and make the owners years left with their animal euphorically happy. In addition, I have alot of passion for helping those in need and that is why being a vet is perfect for me I get to make others happy even if for a little bit. I was the one who contributed for them to have a more emotional happy life and I wouldnt want it any other way. I also want to be a doctor like this because its my passion and I can sustain it and get a more then enough for a living wage and have a healthy life.
 
-I have decided that the topic I will work on is the medical field. The reason For this, is because I want to be in vetinary school when I grow up and help animals recover. Ive always been working hard in my default classes like math chemistry and history so that one day I can finally work on my passion of being a vetinary doctor. Ive always loved animals for as long as I can remember ive searched up what skills you need to master to become a doctor like the one I want to be and worked really hard to master them myself. The pro's of being a vet are very benevolent and lively as I can have the honor and pleasure of making saving a animals life and make peoples years in their life. The cons are the cost of the bills that it takes for these surgeries. You can also say the same for doctors too but vets also have these problems. I want to make a vet that is a non profit and helps animals and owners that dont have the insurance or bills to pay for their sweet pets lives.
+# Engineering Design Process
 
-  # investor
-I have always heard that when you are ages 13-17 you can take risk that usually adults do to make or break their life. But we are different we can own risks to sky rocket our life into success and that is investments because when we grow old to 50 our portfolios can be millions in dollars or maybe billions as the us dollar loses its value every year. We can even put all our money in one basket though risky we can because we are young and can take risks. even when your an adult you can take risks but smaller ones which is why I love investing when im young so that I can be a succesful person when I grow up in the real world.
+I am currently in the first stage of the engineering design process, where the main goal is to define the problem. The problem that I hope to solve with my project is that people are more looking toward competitive careers like the nba or a human doctor. The next stage is to research my problems in which I can do so by searching up articles/websites or talking to my family to fix these problems.
+
 # Skills
 
-There is alot of skills that I had learned during researching economics and one of those skills are investments like crypto and smp 500 that is a tax free money collector that will make you a millionaire in 25 years. In addition, you shouldnt put all your eggs in one basket that way there are multiple oppurtunities for you to become succesful. For example, If I were to put down all the money into stocks and not safe options like smp 500 then theres a high chance I will lose some money if those stocks start to fail. On the other hand, I know I would be good at this job but there is some downsides to it for society. Ill get more knowledge about money then other people and thats just not fair because their some people that just want to get their life started but dont have any economic smarts. But the same can be said about pro's as well as I can teach them myself and also build schooles about economics.
+Their are alot of skills you can learn as a vet. for example, surgical proficiency because if you dont have this you will not be able to save the lives of beloved animals because you cant do a surgical procedure. next example, knowing the signs of sickness in animals, if you cannot differentiate a healthy and unhealthy animal you are not fit to be a vetenary doctor. the reason for this, is because how will you choose which animal gets surgery or even the right surgery and those that dont need it and that are healthy. 
 
 
 # Context
@@ -19,7 +19,7 @@ There is alot of skills that I had learned during researching economics and one 
 
 The purpose of This project Im doing is to share out my opinions on What im passionate about and what it does to help the world but also what it does that doesnt or that is a detriment to my job. The reason for this Blog is that I can share my opinions with you so that we can figure out a way to make these cons go away.
 
-# implications
+# Implications
 
 <ul>
   pros of being a vet
@@ -35,6 +35,33 @@ The purpose of This project Im doing is to share out my opinions on What im pass
 
 links/sources
 https://www.avma.org/
+
+# Summary 
+Overall I am very happy to share to you my opinions on my passion. This all started to, because I was actually afraid of them at first but as I grew older I learned to love and care for them even to the point to where its overbearing to the animal then it is to me. Ill see you when I make another website like this one.
+# Next steps
+I look forward to researching the arts of the vetenary doctors.
+# Entry 1: investing/entreprenurship helping others in need
+10/14/25
+# Why an Entreprenuer 
+The topic that I have chosen for the year long project is entreprenuership. The reason entreprenuer is my backup plan is because theirs a recurring theme in my jobs. Helping people in need, I love helping people especially with money I want a world where no one can live without a home and basic human needs like food, shelter, and water.
+
+The main link I have used to help me explore my passion for entreprenuership <a href="URL">10 Characteristics of Successful Entrepreneurs.
+
+This link has helped me become great at learning new skills as a up and coming entrepreneuer.
+
+# EDP
+Now, I am on the (Step 1) defining and the (Step 2) researching step of the EDP (engineering design process). At first, we were defining what we are most passionate about. Then, we do more deep research in the field that we are more passionate about and do more research about the technology that is used in that career. For instance, some technologies that were used in the field of economics/entreprenuership were online portfolios like cryptocurrency and stocks like apple/testla or charts.
+
+# Skills
+I have learned alot of skills in this project like how to <b> become more independent. </b> This is because im usually asking my parents for help but now I cant because I set this bar to do this myself because I want to see how I can challenge myself by learning how to use the <b> internet to my advantage instead of asking my guardian to tell me what to do.</b>
+
+In addition, I have been able to learn how to <b> Read more abbreviations. </b> For example, amva stands for american veterinary medical association. This is important because I will know when somone abbreviates this word and will be able to talk clearly on the topic/subject.
+
+# Summary
+Overall, I'm really excited to make a website about my passion on being a entreprenuer. This Job inspired me because I was intrested in money to begin with since I was 13 I always wanted more I couldnt get enough I even went job hunting at that age.
+
+</a>
+
 
 
 
