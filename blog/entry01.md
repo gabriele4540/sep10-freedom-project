@@ -17,13 +17,21 @@ There is alot of skills that I had learned during researching economics and one 
 # Context
 
 
-The purpose of This project Im doing is to share out my opinions on What im passionate about and what it does to help the world but also what it does that doesnt or that is a detriment to my job. The reason for this Blog is that I can share my opinions with you so that we can figure out a way to make these cons go away.\
+The purpose of This project Im doing is to share out my opinions on What im passionate about and what it does to help the world but also what it does that doesnt or that is a detriment to my job. The reason for this Blog is that I can share my opinions with you so that we can figure out a way to make these cons go away.
 
 # implications
 
 <ul>
- <li> pros of being a vet and being in economics
-  <li> 
+  pros of being a vet
+  <li> saving animals lives.
+    <li> petting the animals.
+      <li> making the owners left over years with their best buddy.
+</ul>
+<ul> 
+  cons
+  <li> euthanizing animals.
+    <li> the cost to saving animals.
+      <li> failing a surgery on a pet.
 
 links/sources
 https://www.avma.org/
