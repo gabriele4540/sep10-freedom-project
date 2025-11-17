@@ -24,5 +24,9 @@ Topic: **X**
     
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* the trick medicine treat
+  * ever struggle on giving your furry friend their medicine because they just avoid taking it or just doesnt like the taste of it well what I have is a treat that has a crunchy and tasty flavor while helping your pet heal.
+  *  In addition you can do this aswell by just giving them peanut butter and the medicine but it wont be as affective as the trick medicine as the crunchy tasty treat has better healing factors then if you just trick your pet into taking a pill.
+  *  the trick medicine treat helps with skin irrataition with dogs skin, and fur and helps your dogs fur be more soft.
+  *  for example, my dog has dermetitis or a skin irratation that gives him black spots that we give him different foods and medicines for they work a little but we havent found a permenent solution but if I ever become a vet I can make and give my dog the trick medicine treat to cure him of his irritation of itching.
+  *  In addition if your pet doesnt like the flavor of the treat still dont worrty because we have more flavors of the medicine that will definently work on your furry friend. 
