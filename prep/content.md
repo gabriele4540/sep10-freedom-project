@@ -29,4 +29,10 @@ Topic: **X**
   *  In addition you can do this aswell by just giving them peanut butter and the medicine but it wont be as affective as the trick medicine as the crunchy tasty treat has better healing factors then if you just trick your pet into taking a pill.
   *  the trick medicine treat helps with skin irrataition with dogs skin, and fur and helps your dogs fur be more soft.
   *  for example, my dog has dermetitis or a skin irratation that gives him black spots that we give him different foods and medicines for they work a little but we havent found a permenent solution but if I ever become a vet I can make and give my dog the trick medicine treat to cure him of his irritation of itching.
-  *  In addition if your pet doesnt like the flavor of the treat still dont worrty because we have more flavors of the medicine that will definently work on your furry friend. 
+  *  In addition if your pet doesnt like the flavor of the treat still dont worrty because we have more flavors of the medicine that will definently work on your furry friend.
+  *  this medicine does not need to be refridgerated.
+  *  the treat is a sweetened gummy cluster that has a tasty surgary crunch to it that does not have any toxic artifical flavors or added sugars.
+  *  this treat can be used twice-three times a day in your dogs meals to help them recover more should and not be used.
+  *  this treat is used for dogs only and can not be consumed by humans.
+ 
+    
