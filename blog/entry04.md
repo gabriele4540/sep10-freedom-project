@@ -15,7 +15,7 @@ I am now in the 4th stage of my EDP. Now I am going to tinker with my tool more 
 
 # Skills
 
-I have learned alot in a-frame
+I have learned alot in a-frame. I have learned how to tinker with my tool and how to make shapes into what I need to make. All the skills ive learned from a-frame will help me alot in future projects so that I can easily demonstrait my project cleary to others using images and code lines.
 
 
 
