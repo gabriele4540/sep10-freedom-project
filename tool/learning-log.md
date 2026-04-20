@@ -5,10 +5,10 @@
 ---
 
 ### 4/17/26:
-* I learn that in Aframe you can copy the base code to start tinkering with the tool and create shapes and objects in the tool. I also learned to 
+* I learn that in Aframe you can copy the base code to start tinkering with the tool and create shapes and objects in the tool. I also learned to make objects with the shapes.
 
-### X/X/XX:
-* Text
+### 4/20/26:
+* Text 
 
 
 <!--
