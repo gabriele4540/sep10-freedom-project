@@ -1,11 +1,11 @@
 # Tool Learning Log
 
-## Tool: **Aframre**
+## Tool: **A-frame*
 
 ---
 
-### X/X/XX:
-* I learn that in Aframe
+### 4/17/26:
+* I learn that in Aframe you can copy the base code to start tinkering with the tool and create shapes and objects in the tool. I also learned to 
 
 ### X/X/XX:
 * Text
