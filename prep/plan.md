@@ -1,14 +1,14 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](check)
+* [Desktop](check)
 
 ## Colors
-* `#ABC123`
+* `#87CEEB`
 
 ## Fonts
-* [Text](URL)
+* [Times new roman](URL)
 
 ## Timeline
 
@@ -29,7 +29,7 @@
 
 <!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
