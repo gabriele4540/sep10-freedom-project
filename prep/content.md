@@ -6,7 +6,7 @@ Topic: **X**
 * Text
 
 ## Part A: existing technology
-* Tech-> xrays and ultrasounds 
+* Tech-> xrays and ultrasounds
   * detect brainwaves and broken bones in an animal
   * 3d printing that can make new technologies by making a 3d model of it.
   * laser therapy is used to treat animals of sickness
@@ -21,7 +21,7 @@ Topic: **X**
   *  there is even inventory tracking that helps vets stay organized so that they can collect records of every patient they have.
   *  marketing and social media are used to help vets inform people about benefits of their department to provide for our pets and make sure their in top shape.
   * heres the link to this information https://talkatoo.com/blog/6-technological-innovations-veterinarians-should-be-integrating-with-their-practice-right-now/
-    
+
 
 ## Part B: possible future technology
 * the trick medicine treat
@@ -34,5 +34,5 @@ Topic: **X**
   *  the treat is a sweetened gummy cluster that has a tasty surgary crunch to it that does not have any toxic artifical flavors or added sugars.
   *  this treat can be used twice-three times a day in your dogs meals to help them recover more should and not be used.
   *  this treat is used for dogs only and can not be consumed by humans.
- 
-    
+
+
