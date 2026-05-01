@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile](check)
-* [Desktop](check)
+* [Mobile](https://wireframe.cc/s0LXbt)
+* [Desktop]([text](https://wireframe.cc/bzOzV7))
 
 ## Colors
 * `#87CEEB`
