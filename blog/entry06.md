@@ -8,6 +8,16 @@
 # Takeaways
   I have alot of takeaways In my Mvp especially during my time working on my plan.md. My first takeaway is that I need to focus on my feedback more and work harder in finishing my tasks faster. 
 
+  ```
+Here are some of my takeaways from my MVP.
+* Get tasks done quicker.
+* Understand feedback given back to you.
+* And make sure to finish work in time.
+
+
+
+  ```
+
   
 
 [Previous](entry05.md) | [Next](entry07.md)
