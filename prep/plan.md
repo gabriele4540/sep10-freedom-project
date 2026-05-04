@@ -11,12 +11,20 @@
 * [Times new roman](URL)
 
 ## Timeline
-
-#### MVP
-
+* Wireframe
+* Get it approved
+* finish my plan.md
+* finish my Mvp and tasks
+* Help others and finish
 * Task/Timeline
 
----
+#### MVP
+* plan.md
+* Logo
+* Wire frame
+
+
+
 
 #### Beyond MVP
 
