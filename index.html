@@ -1,151 +1,329 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Meta Tags -->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
-    <!-- Bootstrap -->
-    <link
-        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
-        rel="stylesheet"
-    />
+    <title>Veterinary Medicines & Engineering</title>
 
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
 
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f8f9fa;
-            margin: 20px;
-            line-height: 1.6;
+
+        *{
+            margin:0;
+            padding:0;
+            box-sizing:border-box;
         }
 
-        h1, h2 {
-            color: #333;
+        body{
+            font-family:'Poppins', sans-serif;
+            background:#dfe9f3;
+            display:flex;
+            justify-content:center;
+            padding:20px;
         }
 
-        .content-box {
-            background: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        /* Main Website Container */
+
+        .website{
+            width:360px;
+            background:white;
+            border-radius:20px;
+            overflow:hidden;
+            box-shadow:0 10px 30px rgba(0,0,0,0.2);
         }
 
-        ul {
-            margin-left: 20px;
+        /* Navbar */
+
+        .navbar{
+            background:#1f6feb;
+            display:flex;
+            justify-content:space-around;
+            align-items:center;
+            padding:15px;
         }
+
+        .navbar a{
+            color:white;
+            text-decoration:none;
+            font-size:14px;
+            font-weight:600;
+            transition:0.3s;
+        }
+
+        .navbar a:hover{
+            color:#d6e7ff;
+        }
+
+        /* Hero Section */
+
+        .hero{
+            background:
+            linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+            url('https://images.unsplash.com/photo-1517849845537-4d257902454a?q=80&w=1200&auto=format&fit=crop');
+
+            background-size:cover;
+            background-position:center;
+
+            height:240px;
+
+            display:flex;
+            flex-direction:column;
+            justify-content:center;
+            align-items:center;
+
+            text-align:center;
+            color:white;
+            padding:20px;
+        }
+
+        .hero h1{
+            font-size:28px;
+            line-height:1.3;
+            margin-bottom:15px;
+        }
+
+        .hero p{
+            font-size:13px;
+            width:90%;
+        }
+
+        /* Sections */
+
+        .section{
+            padding:25px 20px;
+        }
+
+        .section-title{
+            text-align:center;
+            margin-bottom:20px;
+        }
+
+        .section-title h2{
+            color:#1f6feb;
+            font-size:24px;
+            margin-bottom:8px;
+        }
+
+        .section-title p{
+            color:#666;
+            font-size:13px;
+        }
+
+        /* Cards */
+
+        .card{
+            background:#f7faff;
+            border-radius:15px;
+            overflow:hidden;
+            margin-bottom:20px;
+            box-shadow:0 4px 12px rgba(0,0,0,0.08);
+            transition:0.3s;
+        }
+
+        .card:hover{
+            transform:translateY(-5px);
+        }
+
+        .card img{
+            width:100%;
+            height:170px;
+            object-fit:cover;
+        }
+
+        .card-content{
+            padding:18px;
+        }
+
+        .card-content h3{
+            color:#1f6feb;
+            margin-bottom:10px;
+            font-size:18px;
+        }
+
+        .card-content p{
+            font-size:13px;
+            color:#444;
+            line-height:1.6;
+        }
+
+        /* Future Tech */
+
+        .future-box{
+            background:#1f6feb;
+            color:white;
+            padding:25px;
+            border-radius:18px;
+            margin-top:10px;
+        }
+
+        .future-box h3{
+            margin-bottom:15px;
+            font-size:22px;
+        }
+
+        .future-box ul{
+            padding-left:20px;
+            margin-top:15px;
+        }
+
+        .future-box li{
+            margin-bottom:10px;
+            font-size:13px;
+            line-height:1.5;
+        }
+
+        /* Footer */
+
+        footer{
+            background:#0d3f91;
+            color:white;
+            text-align:center;
+            padding:18px;
+            font-size:12px;
+        }
+
     </style>
-
-    <title>Veterinary Medicines and Engineering</title>
 </head>
 
 <body>
 
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg bg-body-tertiary mb-4">
-        <div class="container-fluid">
-            <a class="navbar-brand" href="#">
-                Veterinary Technology
-            </a>
+    <div class="website">
+
+        <!-- Navbar -->
+
+        <div class="navbar">
+            <a href="#">Home</a>
+            <a href="#">Present Tech</a>
+            <a href="#">Future Ideas</a>
         </div>
-    </nav>
 
-    <div class="container">
-        <div class="content-box">
+        <!-- Hero -->
 
-            <!-- Main Title -->
-            <h1>Veterinary Medicines and Engineering</h1>
+        <div class="hero">
+
+            <h1>
+                Veterinary Medicines
+                & Engineering
+            </h1>
 
             <p>
-                This project explains how technology helps veterinarians care for animals.
-                It also explores possible future inventions that could improve pet health
-                and medicine.
+                Exploring technology that helps animals stay healthy,
+                safe, and cared for through modern engineering.
             </p>
-
-            <!-- Part A -->
-            <h2>Part A: Existing Technology</h2>
-
-            <ul>
-                <li>X-rays and ultrasounds help detect broken bones and internal problems in animals.</li>
-
-                <li>3D printing can create models and medical tools for veterinary care.</li>
-
-                <li>Laser therapy is used to help treat illnesses and reduce pain in animals.</li>
-
-                <li>AI collars can help detect whether your pet may be sick.</li>
-
-                <li>PetPace collars are designed to monitor pets and detect possible future seizures.</li>
-
-                <li>Advanced imaging technology helps veterinarians zoom in on tumors and other health problems for safer treatment.</li>
-
-                <li>Artificial intelligence helps veterinarians determine the health condition of pets.</li>
-
-                <li>Wearable tracking devices help owners locate lost pets.</li>
-
-                <li>E-collars can help train dogs not to eat harmful objects or perform dangerous behaviors.</li>
-            </ul>
-
-            <p>
-                The technologies listed above help veterinarians keep animals healthy and safe.
-                Some technologies, like AI-powered collars, can detect illnesses early and even
-                warn owners about possible seizures before they happen.
-            </p>
-
-            <!-- Part B -->
-            <h2>Part B: Possible Future Technology</h2>
-
-            <h3>The Trick Medicine Treat</h3>
-
-            <ul>
-                <li>
-                    Many pets refuse to take medicine because they dislike the taste.
-                    The Trick Medicine Treat would make medicine taste better while helping pets heal.
-                </li>
-
-                <li>
-                    Unlike hiding medicine in peanut butter, this treat would include ingredients
-                    designed specifically to improve healing.
-                </li>
-
-                <li>
-                    The treat could help with skin irritation and improve a dog's fur health.
-                </li>
-
-                <li>
-                    For example, my dog has dermatitis, which causes itchy skin and dark spots.
-                    Current medicines help a little, but there is no permanent solution yet.
-                </li>
-
-                <li>
-                    The treat would come in multiple flavors so pets can enjoy taking their medicine.
-                </li>
-
-                <li>
-                    The medicine would not need refrigeration.
-                </li>
-
-                <li>
-                    The treat would be a crunchy gummy cluster without toxic artificial flavors
-                    or added sugars.
-                </li>
-
-                <li>
-                    It could be used two to three times a day with meals to help dogs recover.
-                </li>
-
-                <li>
-                    This medicine would only be for dogs and should not be consumed by humans.
-                </li>
-            </ul>
 
         </div>
+
+        <!-- Overview -->
+
+        <section class="section">
+
+            <div class="section-title">
+                <h2>Overview</h2>
+
+                <p>
+                    Learn how technology is changing veterinary medicine.
+                </p>
+            </div>
+
+            <!-- Card 1 -->
+
+            <div class="card">
+
+                <img
+                src="https://images.unsplash.com/photo-1583337130417-3346a1be7dee?q=80&w=1200&auto=format&fit=crop"
+                alt="Dog">
+
+                <div class="card-content">
+
+                    <h3>Existing Technology</h3>
+
+                    <p>
+                        X-rays, ultrasounds, AI collars, and wearable
+                        trackers help veterinarians monitor pets and
+                        detect illnesses early.
+                    </p>
+
+                </div>
+
+            </div>
+
+            <!-- Card 2 -->
+
+            <div class="card">
+
+                <img
+                src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1200&auto=format&fit=crop"
+                alt="Technology">
+
+                <div class="card-content">
+
+                    <h3>Advanced Imaging</h3>
+
+                    <p>
+                        Advanced imaging and laser therapy help doctors
+                        safely examine tumors and treat injuries in pets.
+                    </p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Future Technology -->
+
+        <section class="section">
+
+            <div class="section-title">
+
+                <h2>Future Technology</h2>
+
+                <p>
+                    A possible invention that could improve pet medicine.
+                </p>
+
+            </div>
+
+            <div class="future-box">
+
+                <h3>The Trick Medicine Treat</h3>
+
+                <p>
+                    Many pets dislike taking medicine. This future idea
+                    combines medicine with a crunchy and tasty treat
+                    to make healing easier.
+                </p>
+
+                <ul>
+
+                    <li>Helps dogs recover from skin irritation</li>
+
+                    <li>Comes in multiple flavors</li>
+
+                    <li>No harmful artificial ingredients</li>
+
+                    <li>Does not require refrigeration</li>
+
+                    <li>Made specifically for dogs only</li>
+
+                </ul>
+
+            </div>
+
+        </section>
+
+        <!-- Footer -->
+
+        <footer>
+
+            Veterinary Medicines & Engineering © 2026
+
+        </footer>
+
     </div>
-
-    <!-- Bootstrap JS -->
-    <script
-        src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js">
-    </script>
 
 </body>
 </html>
